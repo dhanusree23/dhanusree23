@@ -167,3 +167,37 @@ def dreddy():
     plt.show()
 dreddy()
 
+while True:
+    n=input('enter the stock name:')
+    if n==tcs:
+        tcs()
+    elif n==infy:
+        infy()
+     elif n==techm:
+        techm()
+     elif n==bharat:
+        bharat()
+     elif n==wipro:
+        wipro()
+     elif n==kotak:
+        kotak()
+     elif n==icici:
+        icici()
+     elif n==sbi:
+        sbi()
+     elif n==hdfc:
+        hdfc()
+     elif n==axis:
+        axis()
+     elif n==sun:
+        sun()
+     elif n==apollo:
+       apollo()
+     elif n==cipla:
+        cipla()
+     elif n==divisab:
+       divislab()
+     elif n==dreddy:
+        dreddy()
+    
+    
