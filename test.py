@@ -199,5 +199,7 @@ while True:
        divislab()
      elif n==dreddy:
         dreddy()
+    else:
+        print('invalid stock')
     
     
